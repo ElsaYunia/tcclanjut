@@ -1,4 +1,4 @@
-Langkah-Langkah Installasi GIT di Windows
+# Langkah-Langkah Installasi GIT di Windows
 1. Buka master program Git for Windows. Kemudian akan dimunculkan lisensi. Klik Next untuk lanjut
 
 ![1](https://user-images.githubusercontent.com/43244821/53965402-c2d65d00-4123-11e9-85db-27fa2bb05e94.JPG)
