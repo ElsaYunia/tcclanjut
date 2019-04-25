@@ -33,3 +33,71 @@ Kemudian menghubungkan 2 container dengan menggunakan links dan berjalan di port
 
 # Bagian 2-- Docker Swarm
 
+1. Melihat perintah docker swarm
+
+![1](https://user-images.githubusercontent.com/43244821/56709766-3d4b5280-674d-11e9-9b17-d37ccb536537.JPG)
+
+2. Docker swarm init
+
+![2](https://user-images.githubusercontent.com/43244821/56709784-52c07c80-674d-11e9-92c6-1414b6b5a7a6.JPG)
+
+3. Melakukan join di Terminal Host 2
+
+![3](https://user-images.githubusercontent.com/43244821/56709811-75eb2c00-674d-11e9-8d27-f17f24ca9612.JPG)
+
+4. Menggunakan alamat Ip
+
+![4-terminal2](https://user-images.githubusercontent.com/43244821/56709837-91563700-674d-11e9-9724-a5a0134275eb.JPG)
+
+5. Melihat daftar node
+
+![5](https://user-images.githubusercontent.com/43244821/56709850-a3d07080-674d-11e9-8fc9-7c8620efa879.JPG)
+
+6. Membuat docker network
+
+![6](https://user-images.githubusercontent.com/43244821/56709866-b6e34080-674d-11e9-89d8-a8b3eaa21570.JPG)
+
+7. Membuat replickasi dengan docker service
+
+![7](https://user-images.githubusercontent.com/43244821/56709895-db3f1d00-674d-11e9-96b8-5b5d493c734e.JPG)
+
+8. Melihat daftar docker service
+
+![8](https://user-images.githubusercontent.com/43244821/56709904-eabe6600-674d-11e9-8d03-f395157adb2f.JPG)
+
+9. Melihat daftar kontainer
+
+![9](https://user-images.githubusercontent.com/43244821/56709923-01fd5380-674e-11e9-9db9-4b06dcf21653.JPG)
+
+10. Melihat daftar container di terminal host 2
+
+![10](https://user-images.githubusercontent.com/43244821/56709973-38d36980-674e-11e9-8a77-c12ef2086eb7.JPG)
+
+11. Melihat proses
+
+![11](https://user-images.githubusercontent.com/43244821/56710004-5e607300-674e-11e9-9f79-3267a4c2a7aa.JPG)
+
+12. Melihat docker service
+
+![12](https://user-images.githubusercontent.com/43244821/56710033-720bd980-674e-11e9-9d02-bd4b297e7018.JPG)
+
+13. Docker inspect
+
+![13](https://user-images.githubusercontent.com/43244821/56710065-9962a680-674e-11e9-8650-3e725ce01fbf.JPG)
+
+14. Melihat node
+
+![14](https://user-images.githubusercontent.com/43244821/56710100-b303ee00-674e-11e9-9f94-9525170cc94a.JPG)
+![15](https://user-images.githubusercontent.com/43244821/56710121-cd3dcc00-674e-11e9-89a9-f4e81c50e955.JPG)
+
+15. Melihat proses
+
+![16](https://user-images.githubusercontent.com/43244821/56710150-ed6d8b00-674e-11e9-8763-f049ecd8aa30.JPG)
+
+16. Docker scale
+
+![17](https://user-images.githubusercontent.com/43244821/56710168-0118f180-674f-11e9-9183-92e216a62c8e.JPG)
+
+17. Melihat daftar container
+
+![18](https://user-images.githubusercontent.com/43244821/56710193-1aba3900-674f-11e9-9166-df03a682e9a8.JPG)
