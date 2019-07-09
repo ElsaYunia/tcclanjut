@@ -5,7 +5,7 @@
    ![Screenshot_2](https://user-images.githubusercontent.com/43244821/58264490-29c0f500-7da8-11e9-89b9-5a85400d0d29.jpg)
 3. Melakukan Run Image
    ![Screenshot_3](https://user-images.githubusercontent.com/43244821/58264531-36dde400-7da8-11e9-870f-492895c4acec.jpg)
-4. Melihat image yang sudah di deployment
+4. Melihat image yang sudah dideployment
    ![Screenshot_4](https://user-images.githubusercontent.com/43244821/58264549-40ffe280-7da8-11e9-889e-0be214dc53f6.jpg)
 5. Melihat describe deployment
    ![Screenshot_5](https://user-images.githubusercontent.com/43244821/58264582-4b21e100-7da8-11e9-83d9-71622ba59b45.jpg)
